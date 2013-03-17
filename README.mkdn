@@ -3,7 +3,12 @@ MiniCM
 ===========
 
 MiniCM (http://code.google.com/p/minicm/) is a fork of the CyanogenMod project that provides support for the SEMC msm7x27 devices.
-These devices are: X8/W8, X10mini, X10minipro
+These devices are: X8/W8 (shakira), X10mini (robyn), X10minipro (mimmi)
+
+Related xda threads:
+http://forum.xda-developers.com/showthread.php?t=1836116
+http://forum.xda-developers.com/showthread.php?t=1837158
+http://forum.xda-developers.com/showthread.php?t=1837273
 
 All patches are welcome!
 
@@ -19,9 +24,13 @@ To initialize your local repository using the MiniCM trees, use a command like t
 
     repo init -u git://github.com/MiniCM/android.git -b jellybean
 
+    alternatively:
+
+    repo init -u https://github.com/MiniCM/android.git -b jellybean
+
 Then to sync up:
 
-    repo sync -j16
+    repo sync -j16 (or j4 if your connection is not as good)
 
 Building MiniCM (Quick start)
 ------------------
