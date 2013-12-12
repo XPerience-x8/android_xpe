@@ -22,11 +22,9 @@
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" />
   <project path="dalvik" name="CyanogenMod/android_dalvik" />
   <project path="development" name="CyanogenMod/android_development" />
-  <project path="device/common" name="CyanogenMod/android_device_common" />
-  <project path="device/semc/mimmi" name="MiniCM/android_device_semc_mimmi" />
-  <project path="device/semc/msm7x27-common" name="MiniCM/android_device_semc_msm7x27-common" />
-  <project path="device/semc/robyn" name="MiniCM/android_device_semc_robyn" />
-  <project path="device/semc/shakira" name="MiniCM/android_device_semc_shakira" />
+  <project path="device/common" name="XPerience-x8/android_device_common" />
+  <project path="device/semc/msm7x27-common" name="XPerience-x8/android_device_semc_msm7x27-common" />
+  <project path="device/semc/shakira" name="XPerience-x8/android_device_semc_shakira" />
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" />
   <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" />
   <project path="external/apache-http" name="CyanogenMod/android_external_apache-http" />
@@ -128,7 +126,7 @@
   <project path="external/xmlwriter" name="CyanogenMod/android_external_xmlwriter" />
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" />
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" />
-  <project path="frameworks/base" name="MiniCM/android_frameworks_base" />
+  <project path="frameworks/base" name="XPerience-x8/android_frameworks_base" />
   <project path="frameworks/ex" name="CyanogenMod/android_frameworks_ex" />
   <project path="frameworks/opt/emoji" name="CyanogenMod/android_frameworks_opt_emoji" />
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" />
@@ -187,7 +185,7 @@
   <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" />
   <project path="packages/apps/QuickSearchBox" name="CyanogenMod/android_packages_apps_QuickSearchBox" />
   <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" />
-  <project path="packages/apps/Settings" name="MiniCM/android_packages_apps_Settings" />
+  <project path="packages/apps/Settings" name="XPerience-x8/android_packages_apps_Settings" />
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" />
   <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" />
   <project path="packages/apps/Stk" name="CyanogenMod/android_packages_apps_Stk" />
@@ -221,7 +219,7 @@
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
   <project path="system/wlan/ti" name="CyanogenMod/android_system_wlan_ti" />
 
-  <project path="vendor/cyanogen" name="MiniCM/android_vendor_cyanogen" />
+  <project path="vendor/cyanogen" name="XPerience-x8/android_vendor_cyanogen" />
   <project path="vendor/qcom/opensource/webkit" name="CyanogenMod/android_vendor_qcom_opensource_webkit" />
   <project path="vendor/semc" name="MiniCM/android_vendor_semc" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" />
