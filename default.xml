@@ -28,7 +28,7 @@
   <project path="development" name="CyanogenMod/android_development" />
   <project path="device/common" name="device/common" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="device/semc/msm7x27-common" name="XPerience-x8/android_device_semc_msm7x27-common" />
-  <project path="device/semc/shakira" name="XPerience/android_device_semc_shakira" />
+  <project path="device/semc/shakira" name="XPerience-x8/android_device_semc_shakira" />
   <project path="external/android-mock" name="platform/external/android-mock" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="external/antlr" name="platform/external/antlr" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="external/apache-harmony" name="platform/external/apache-harmony" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
